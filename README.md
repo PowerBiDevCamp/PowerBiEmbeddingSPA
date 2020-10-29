@@ -1,2 +1,2 @@
-# PowerBiEmbeddingSPA
-Power BI Embedding SPA - sample SPA using node.js, MSAL-Browser, TypeScript and powerbi.js 
+# Power BI Embedding SPA
+**PowerBiEmbeddingSPA**  is a sample SPA demonstrating how to implemented Power BI embedding using node.js, webpack,   TypeScript and jQuery. This project uses MSAL-Browser for client-side authentication and token caching. It calls to the Power BI Service API to get embedding data and it peforms report and dashboard embedding on the client-side using the Power BI JavaScript API (powerbi.js). 
